@@ -1,5 +1,5 @@
 import numpy as np
-
+# Я Заебался с этой хуетой
 def random_predict(number:int=1) -> int:
     """Рандомно угадываем число
 
@@ -10,7 +10,7 @@ def random_predict(number:int=1) -> int:
         int: Число попыток
     """
 
-    count = 0 #патч
+    count = 0 #патч 
 
     while True:
         count += 1
